@@ -3,6 +3,8 @@
 #include <cstdlib>
 using namespace std;
 
+//RULES: NO GLOBAL VARS, NO STRINGS, INCLUDE IOSTREAM NOT STDIO- using new and delete-
+
 int main(){
 	//Introduce guessing game header and instantiate crucial variables
 	cout << "Welcome to the Guessing Game!";
